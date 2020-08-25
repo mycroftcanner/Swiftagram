@@ -1,0 +1,26 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/runner/work/Swiftagram/Swiftagram/Sources/Swiftagram/Authentication/Secret/Secret.swift",
+      "line": 12,
+      "symbol": "Secret",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Swiftagram/Swiftagram/Sources/Swiftagram/Authentication/Secret/Secret.swift",
+      "line": 206,
+      "symbol": "Secret",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Swiftagram/Swiftagram/Sources/Swiftagram/Extensions/Deprecations.swift",
+      "line": 40,
+      "symbol": "Endpoint.Archive",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/runner/work/Swiftagram/Swiftagram"
+}
