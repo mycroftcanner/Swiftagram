@@ -1,6 +1,6 @@
 # Swiftagram
 [![Swift](https://img.shields.io/badge/Swift-5.1-%23DE5C43?style=flat&logo=swift)](https://swift.org)
-[![codecov](https://codecov.io/gh/sbertix/Swiftagram/branch/master/graph/badge.svg)](https://codecov.io/gh/sbertix/Swiftagram)
+[![codecov](https://codecov.io/gh/sbertix/Swiftagram/branch/main/graph/badge.svg)](https://codecov.io/gh/sbertix/Swiftagram)
 [![Telegram](https://img.shields.io/badge/Telegram-Swiftagram-blue?style=flat&logo=telegram)](https://t.me/swiftagram)
 
 **Swiftagram** is a client for [**Instagram**](https://instagram.com) written entirely in **Swift**.
@@ -177,7 +177,7 @@ task?.cancel()
 Just `resume` it once more.
 If it's still fetching, nothing's gonna happen. But if it's not and there are still more pages to be fetched, a new one will be requested.  
 
-## Backers
+## Special thanks
 Thank your for financially supporting this project.
 
 <a href="https://github.com/anonrig">
@@ -189,3 +189,5 @@ Thank your for financially supporting this project.
 <a href="https://github.com/jerry317">
     <img src="https://github.com/jerry317.png?size=60" alt="jerry317" width="36" height="36" />
 </a>
+
+Massive thanks to anyone contributing to [**dilame/instagram-private-api**](https://github.com/dilame/https://github.com/dilame/instagram-private-api), for the invaluable service to the open source community, without which there would be no **SwiftagramCrypto** endpoints today.
